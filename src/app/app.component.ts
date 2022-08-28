@@ -7,6 +7,6 @@ import { Component, VERSION } from '@angular/core';
 })
 export class AppComponent  {
 
- name : 11;
+ namea : "shhh";
 
 }
